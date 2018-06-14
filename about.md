@@ -18,7 +18,7 @@ My Name is Joseph Meyrick.  I am currently a Senior IT Support Specialist at the
   <p>
     <iframe src="https://drive.google.com/file/d/1103Jzzh6TQ1HrDajcOOAF7wvSSmcUz6R/preview" ></iframe>
     
-    <iframe src="{{ "/images/meyrick_resume 3 20 18.pdf" | absolute_url }}" width="800px" height="800px">This browser does not support PDFs. Please download the PDF to view it: <a href="{{ "/images/meyrick_resume 3 20 18.pdf" | absolute_url }}">Download PDF</a>
+    <iframe src="{{ "/images/meyrick_resume 3 20 18.pdf" | absolute_url }}" width="900px" height="900px">This browser does not support PDFs. Please download the PDF to view it: <a href="{{ "/images/meyrick_resume 3 20 18.pdf" | absolute_url }}">Download PDF</a>
 </iframe>
   </p>
 </div>
