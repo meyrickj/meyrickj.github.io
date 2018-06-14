@@ -16,7 +16,7 @@ My Name is Joseph Meyrick.  I am currently a Senior IT Support Specialist at the
 ### Resume
 <div class="box">
   <p>
-    <iframe src="https://drive.google.com/file/d/1103Jzzh6TQ1HrDajcOOAF7wvSSmcUz6R/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1103Jzzh6TQ1HrDajcOOAF7wvSSmcUz6R/preview" ></iframe>
   </p>
 </div>
 
