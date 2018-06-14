@@ -35,10 +35,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            jmeyrick
 facebook:           default
-instagram:          default
-github:             default
+instagram:          halt_catchfire
+github:             meyrickj
 
 # personal
 location:           Philadelphia, PA
