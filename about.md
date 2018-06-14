@@ -14,10 +14,11 @@ sitemap:
 My Name is Joseph Meyrick.  I am currently a Senior IT Support Specialist at the University of Pennsylvania Wharton School of Buisness. 
 
 ### Resume
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT7EXxUgiRGdppeW-1H5-n5r4-4SwcxmSO8V12Gl6Vdx8APxf7JBmOVr19EppRRmd63a1UVMfvo_c8y/pub?embedded=true"></iframe>
 <div class="box">
   <p>
  <iframe style="width: 100%; height: 1000px;" src="https://docs.google.com/document/d/e/2PACX-1vT7EXxUgiRGdppeW-1H5-n5r4-4SwcxmSO8V12Gl6Vdx8APxf7JBmOVr19EppRRmd63a1UVMfvo_c8y/pub?embedded=true"></iframe>
+ <embed src="https://drive.google.com/file/d/1103Jzzh6TQ1HrDajcOOAF7wvSSmcUz6R/view?usp=sharing"" >
+
   </p>
 </div>
 
