@@ -1,6 +1,6 @@
 ---
+label: Posts
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -43,5 +43,4 @@ fields:
   hidden: false
   default: 
 pages:
-- _posts/_posts/2018-05-18-welcome-to-jekyll.markdown
-- _posts/2017-10-31-welcome-to-massively-the-jekyll-theme.md
+- _posts/2018-06-19-test-post.md
