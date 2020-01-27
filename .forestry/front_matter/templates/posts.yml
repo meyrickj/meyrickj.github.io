@@ -42,5 +42,3 @@ fields:
   type: text
   hidden: false
   default: 
-pages:
-- _posts/2018-06-19-test-post.md
