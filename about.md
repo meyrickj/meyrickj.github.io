@@ -10,9 +10,9 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/A20946C5-1B7A-4BEB-9FDB-A45465524393.JPG" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/joe-london.jpg" | absolute_url }}" alt="" /></span>
 
-My Name is Joseph Meyrick.  I am currently a Senior IT Support Specialist at the University of Pennsylvania Wharton School of Buisness.
+My Name is Joseph Meyrick.  I am currently a Senior IT Support Specialist at the University of Pennsylvania Wharton School of Business.
 
 <div class="box">
 <p>
