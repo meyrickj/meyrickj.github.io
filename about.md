@@ -17,12 +17,3 @@ My Name is Joe Meyrick.  I am currently a Senior IT Support Specialist at the Un
 I am also an avid traveler trying to see the world one city at a time!
 
 
-<ul class="actions">
-
-<li><a href="{{ "/images/meyrick_resume.pdf" | absolute_rl }}" class="button">Download my latest resume</a></li>
- </ul>
- 
- <ul class="actions">
-
-<li><a href="https://www.amazon.com/Joseph-Meyrick-Philly-Transit/dp/B07N7XYG71/ref=sr_1_1?dchild=1&keywords=philly+transit+alexa+skill&qid=1596836917&sr=8-1" class="button">Check out my Alexa Skill!</a></li>
- </ul>
