@@ -12,12 +12,11 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/joe-london.jpg" | absolute_url }}" alt="" /></span>
 
-My Name is Joseph Meyrick.  I am currently a Senior IT Support Specialist at the University of Pennsylvania Wharton School of Business.
+My Name is Joe Meyrick.  I am currently a Senior IT Support Specialist at the University of Pennsylvania Wharton School of Business.  I have been in tech for the last 7 years and always trying to better expand my knowledge.  I love trying to provide automation for anything and everything I can.
 
+I am also an avid traveler trying to see the world one city at a time!
 
-<p>
-
-<center><b>Current resume</b> </center>
+ <p>
 <iframe src="{{ "/images/meyrick_resume.pdf" | absolute_url }}" width="900px" height="1000px">This browser does not support PDFs. Please download the PDF to view it: <a href="{{ "/images/meyrick_resume.pdf" | absolute_url }}">Download PDF</a>
 </iframe>
 </p>
