@@ -18,6 +18,6 @@ I am also an avid traveler trying to see the world one city at a time!
 
 <ul class="actions">
 
-                  <li><a href="{{ "/images/meyrick_resume.pdf" | absolute_rl }}" class="button">_Download my latest resume</a></li>
-
+                  <li><a href="{{ "/images/meyrick_resume.pdf" | absolute_rl }}" class="button">Download my latest resume</a></li>
+    
                 </ul>
