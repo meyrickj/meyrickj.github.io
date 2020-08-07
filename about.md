@@ -16,7 +16,8 @@ My Name is Joe Meyrick.  I am currently a Senior IT Support Specialist at the Un
 
 I am also an avid traveler trying to see the world one city at a time!
 
-<p>
-<iframe src="{{ "/images/meyrick_resume.pdf" | absolute_url }}" width="900px" height="1000px">This browser does not support PDFs. Please download the PDF to view it: <a href="{{ "/images/meyrick_resume.pdf" | absolute_url }}">Download PDF</a>
-</iframe>
-</p>
+<ul class="actions">
+
+                  <li><a href="{{ "/images/meyrick_resume.pdf" | absolute_rl }}" class="button">_Download my latest resume</a></li>
+
+                </ul>
